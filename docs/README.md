@@ -61,7 +61,7 @@ O objetivo deve ser bem direto, específico e definido com verbos de ação (ela
 
 #### 1.3.1 Objetivos específicos
 
-_Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
+_Apresente também alguns (pelo menos 4) **objetivos específicos** dependendo de onde você vai querer 
 concentrar sua prática investigativa, ou como você irá aprofundar seu trabalho._
 
 ### 1.4 Justificativas
